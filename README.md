@@ -35,19 +35,15 @@ Ou rodar na sua máquina:
 
 ``` 
 git clone https://github.com/Hudsonjr90/Task-app.git
-
 ```
 ``` 
 cd tasks-app
-
 ```
 ``` 
 npm install
-
 ```
-``` 
+```
 npm start
-
 ```
 
 
