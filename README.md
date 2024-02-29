@@ -29,25 +29,21 @@ O projeto teve principalmente como objetivo pôr em prática conhecimentos de Ty
 
 ## Como testar
 
-Você pode acessar o projeto aqui: https://Taskapp.vercel.app/
+Você pode acessar o projeto aqui: [Live App](https://taskapp-v1.vercel.app)
 
 Ou rodar na sua máquina: 
 
 ``` 
 git clone https://github.com/Hudsonjr90/Task-app.git
-
 ```
 ``` 
 cd tasks-app
-
 ```
 ``` 
 npm install
-
 ```
-``` 
+```
 npm start
-
 ```
 
 
